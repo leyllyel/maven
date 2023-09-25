@@ -1,3 +1,5 @@
+import org.example.DbSetting;
+
 public class MyService {
 
     private DbSetting dbSetting = new DbSetting("name", "password");
